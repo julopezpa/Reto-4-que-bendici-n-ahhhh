@@ -3,7 +3,7 @@ Solución de el Reto no. 4
 # Primer Punto
 Nos pide plantear un algoritmo, con el que se puedan optener los numeros primos hasta un numero n, usando pseudocodigo
 
-Algoritmo primos
+	Algoritmo primos
 	Definir z Como Entero
 	Definir n como entero 
 	definir x Como Entero
@@ -28,4 +28,4 @@ Algoritmo primos
 		r=0
 		z=z+1
 	FinMientras
-FinAlgoritmo
+	FinAlgoritmo

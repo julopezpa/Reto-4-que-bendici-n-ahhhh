@@ -55,5 +55,6 @@ Nos pide plantear un algoritmo en el que se hallen las raices de un numero n atr
 	fin proceso
 
 ![image](https://user-images.githubusercontent.com/124606636/221457438-d60e05a1-a2ae-4e3a-aef8-1fe7dfea5dfe.png)
-#meme random
+
+# meme random
 ![image](https://user-images.githubusercontent.com/124606636/221457959-365cc6a4-14c1-48f6-974c-5008d1f2b8bb.png)
